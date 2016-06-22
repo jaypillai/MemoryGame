@@ -1,0 +1,31 @@
+
+
+
+body{
+        text-align:center;    
+}
+.touched{
+	z-index : 1;
+}
+
+.multiple{
+	
+}
+
+#countdown, .error {
+    color: red ;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.memoryGameOn td {
+	width : 100px;
+	height : 100px;
+	background-repeat:no-repeat;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#saveValue {
+	display: none;
+}
